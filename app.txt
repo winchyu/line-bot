@@ -1,0 +1,24 @@
+sdk：軟體開發套件
+google：python line sdk 
+github：line-bot-sdk-python
+安裝：SDK
+cmd：pip install line-bot-sdk
+Synopsis： 
+copy usage 下面的範例程式
+寫伺服器的檔案，通常取名 app.py
+因為現在在做一個網路的應用程式 web app
+一般這個首要的檔案都叫做 app.py
+現在寫的這個程式是在架設 伺服器
+flask 是python 架設伺服器或是寫網站
+寫網站 就等同在架設伺服器
+因為網站本身就是一個伺服器，才可以連線過去
+python 要架設伺服器或寫網站，兩個主流的套件
+分別是：flask 和 django
+flask(做小規模的，應用程式) 
+只是用來放在雲端，讓line傳訊息過去，然後再回傳訊息 的應用程式
+django(做大規模的，做網頁，有畫面的)
+
+
+Heroku:
+winchyu@gmail.com
+PS: /y6+qknq

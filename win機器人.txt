@@ -1,0 +1,19 @@
+win機器人
+•   Admin
+•   Messaging API
+•  •  •  •  •  Basic settings
+Basic information
+You can change your app name and icon in the LINE Official Account Manager 
+Channel ID  1654175038
+Channel icon 
+Channel name  win機器人 
+Channel description  win機器人 
+Email address  winchyu@gmail.com 
+Privacy policy URL  
+Terms of use URL  
+App types  Bot 
+Permissions  PROFILE
+Channel secret  b3408e1eace9434e7a10db4ded7cfd23
+Assertion Signing Key  949232fe-b532-4119-bda0-50170abecf5f
+Your user ID  Ud54412840e00c96fb6ff2404352baf8c
+Delete this channel
